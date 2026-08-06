@@ -29,7 +29,7 @@ The HR department wants to understand:
 - Workforce Analysis
 - Department Analysis
 - Employee Analysis
-- -Job Role Analysis
+- Job Role Analysis
 - Gender Analysis
 - Age Group Analysis
 - Salary Analysis
