@@ -30,4 +30,4 @@ Welcome to my Data Analytics Portfolio showcasing projects built using Excel, SQ
 - B.Tech in Electronics & Telecommunication, VIIT Pune (2022)
 
 ## Experience
-- Programmer Analyst, Cognizant (4+ Years)
+- Programmer Analyst, Cognizant (4 Years)
