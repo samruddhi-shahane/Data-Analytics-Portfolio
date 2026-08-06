@@ -19,6 +19,7 @@ Welcome to my Data Analytics Portfolio showcasing projects built using Excel, SQ
 
 ### SQL Projects
 - Sales Data Analysis
+- Employee Attrition Analysis
 
 ### Power BI Projects
 - Sales Performance Dashboard
@@ -29,4 +30,4 @@ Welcome to my Data Analytics Portfolio showcasing projects built using Excel, SQ
 - B.Tech in Electronics & Telecommunication, VIIT Pune (2022)
 
 ## Experience
-- Programmer Analyst, Cognizant (3+ Years)
+- Programmer Analyst, Cognizant (4+ Years)
